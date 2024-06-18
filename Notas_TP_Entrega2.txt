@@ -1,4 +1,0 @@
-* Ejecutar la Primer entrega del TP desde el principio, asi se carga el modelo de regresión lineal en memoria.
-
-* Luego ir ejecutando desde donde dice Entrega 2 para analizar la 2da Parte del TP (el modelo ya cargado en memoria 
-de regresión lineal sera utilizado posteriormente).
